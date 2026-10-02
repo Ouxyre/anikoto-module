@@ -1,0 +1,21 @@
+{
+  "sourceName": "Anikoto (DUB)",
+  "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+  "author": {
+    "name": "Custom module",
+    "icon": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png"
+  },
+  "version": "1.0.0",
+  "language": "English (DUB)",
+  "description": "Anikoto search, details, episodes and MegaPlay HLS streams.",
+  "baseUrl": "https://anikototv.to/",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "searchBaseUrl": "https://anikototv.to/filter?keyword=%s",
+  "scriptUrl": "https://YOUR-HOST/anikoto-dub.js",
+  "type": "anime",
+  "downloadSupport": false,
+  "asyncJS": true,
+  "streamAsyncJS": true,
+  "softsub": false
+}
