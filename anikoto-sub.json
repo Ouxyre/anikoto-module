@@ -12,7 +12,7 @@
   "streamType": "HLS",
   "quality": "1080p",
   "searchBaseUrl": "https://anikototv.to/filter?keyword=%s",
-  "scriptUrl": "https://YOUR-HOST/anikoto-sub.js",
+  "scriptUrl": "https://raw.githubusercontent.com/Ouxyre/anikoto-module/main/anikoto-sub.js",
   "type": "anime",
   "downloadSupport": false,
   "asyncJS": true,
